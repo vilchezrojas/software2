@@ -1,0 +1,6 @@
+Observaciones a los casos de Uso
+---------------------------------------
+- Los requerimientos estan bien, pero hay que escribirlos con mas detalle
+- Los requerimientos no funcionales no hay que dispararlos asi por asi, hay que proponer una manera medible de verificarlos
+- Los casos de uso, falta describirlos
+VAS BIEN, SIGUE ADELANTE
