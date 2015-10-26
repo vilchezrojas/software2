@@ -1,0 +1,11 @@
+Observaciones a los casos de Uso
+---------------------------------------
+- Los requerimientos estan bien, pero hay que escribirlos con mas detalle
+- Los requerimientos no funcionales no hay que dispararlos asi por asi, hay que proponer una manera medible de verificarlos
+- Los casos de uso, falta describir los
+VAS BIEN, SIGUE ADELANTE
+
+OBSERVACIONES SEGUNDO AVANCE
+-----------------------------------------------------
+- No has necho merge del pull-request con observaciones que te he hecho
+- Los commits deberian ser mas frecuentes y regulares, no debe aparecer código de la noche a la mañana
